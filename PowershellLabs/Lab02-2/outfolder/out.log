@@ -1,0 +1,114 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_1.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","ps_lab02-2_1.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_1.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ps_lab02-2_1","System.Collections.Generic.List`1[System.String]",,"ps_lab02-2_1.ps1","138","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","False","True","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_1.ps1",".ps1","1/26/2024 11:38:05 AM","1/26/2024 4:38:05 PM","1/26/2024 11:42:56 AM","1/26/2024 4:42:56 PM","1/26/2024 11:42:56 AM","1/26/2024 4:42:56 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_10.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","ps_lab02-2_10.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_10.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ps_lab02-2_10","System.Collections.Generic.List`1[System.String]",,"ps_lab02-2_10.ps1","236","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","False","True","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_10.ps1",".ps1","1/26/2024 6:20:01 PM","1/26/2024 11:20:01 PM","1/26/2024 6:35:29 PM","1/26/2024 11:35:29 PM","1/26/2024 6:35:29 PM","1/26/2024 11:35:29 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_2.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","ps_lab02-2_2.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_2.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ps_lab02-2_2","System.Collections.Generic.List`1[System.String]",,"ps_lab02-2_2.ps1","141","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","False","True","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_2.ps1",".ps1","1/26/2024 11:43:16 AM","1/26/2024 4:43:16 PM","1/26/2024 11:43:17 AM","1/26/2024 4:43:17 PM","1/26/2024 11:43:17 AM","1/26/2024 4:43:17 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_3-4.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","ps_lab02-2_3-4.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_3-4.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ps_lab02-2_3-4","System.Collections.Generic.List`1[System.String]",,"ps_lab02-2_3-4.ps1","114","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","False","True","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_3-4.ps1",".ps1","1/26/2024 11:44:21 AM","1/26/2024 4:44:21 PM","1/26/2024 11:52:28 AM","1/26/2024 4:52:28 PM","1/26/2024 11:52:28 AM","1/26/2024 4:52:28 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_5-6.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","ps_lab02-2_5-6.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_5-6.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ps_lab02-2_5-6","System.Collections.Generic.List`1[System.String]",,"ps_lab02-2_5-6.ps1","186","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","False","True","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_5-6.ps1",".ps1","1/26/2024 11:56:13 AM","1/26/2024 4:56:13 PM","1/26/2024 12:12:55 PM","1/26/2024 5:12:55 PM","1/26/2024 12:12:55 PM","1/26/2024 5:12:55 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_7.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","ps_lab02-2_7.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_7.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ps_lab02-2_7","System.Collections.Generic.List`1[System.String]",,"ps_lab02-2_7.ps1","157","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","False","True","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_7.ps1",".ps1","1/26/2024 12:16:49 PM","1/26/2024 5:16:49 PM","1/26/2024 12:18:37 PM","1/26/2024 5:18:37 PM","1/26/2024 12:18:37 PM","1/26/2024 5:18:37 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_8.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","ps_lab02-2_8.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_8.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ps_lab02-2_8","System.Collections.Generic.List`1[System.String]",,"ps_lab02-2_8.ps1","205","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","False","True","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_8.ps1",".ps1","1/26/2024 12:20:35 PM","1/26/2024 5:20:35 PM","1/26/2024 12:40:58 PM","1/26/2024 5:40:58 PM","1/26/2024 12:40:58 PM","1/26/2024 5:40:58 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_9.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","ps_lab02-2_9.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_9.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ps_lab02-2_9","System.Collections.Generic.List`1[System.String]",,"ps_lab02-2_9.ps1","231","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2","False","True","C:\Users\champuser\Documents\sys320git\PowershellLabs\Lab02-2\ps_lab02-2_9.ps1",".ps1","1/26/2024 12:41:46 PM","1/26/2024 5:41:46 PM","1/26/2024 6:17:44 PM","1/26/2024 11:17:44 PM","1/26/2024 6:17:44 PM","1/26/2024 11:17:44 PM","Archive"
