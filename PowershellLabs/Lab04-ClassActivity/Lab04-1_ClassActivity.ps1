@@ -1,14 +1,11 @@
 ﻿# Powershell Script
 # SYS-320 - Ben W
 
-cd C:\xampp\apache\logs
+$notfounds = Get-Content C:\xampp\apache\logs\access.log | Select-String ' 404 '
 
-$notfounds = Get-Content -tail 10 access.log | Select-String ' 404 '
+$regex = [regex] "^(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}).*"
 
-$regex = [regex] "^(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}) .*"
-
-
-$ipsUnorganized = $regex.Matches($notfounds)
+$ipsUnorganized = $regex.Match($notfounds)
 
 $ips = @()
 for ($i=0; $i -lt $ipsUnorganized.Count; $i++) {
@@ -17,9 +14,11 @@ for ($i=0; $i -lt $ipsUnorganized.Count; $i++) {
 
 $ipoftens = $ips | ? { $_.IP -ilike "10.*" }
 
-$count = $ipoftens | Group-Object IP
+$ipoftens
 
-$count | Select-Object Count, Name
+#$count = $ipoftens | Group-Object IP
+
+#$count | Select-Object Count, Name
 
 
 
