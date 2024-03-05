@@ -1,7 +1,7 @@
 # Powershell Script
 # SYS-320 - Ben W
 
-function ApacheLogs1 {
+function Apache-Logs {
 
     $page = $args[0]
     $httpCode = $args[1]
