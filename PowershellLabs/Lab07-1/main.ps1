@@ -6,7 +6,7 @@ cd $PSScriptRoot
 . .\Event-Logs.ps1
 
 # Obtaining Configuration
-$configuration = readConfiguration
+$configuration = readConf
 
 # Obtaining at risk users
 $Failed = atRiskUsers $configuration.Days
