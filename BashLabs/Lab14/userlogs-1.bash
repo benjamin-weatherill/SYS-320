@@ -8,20 +8,24 @@ function getLogins(){
  echo "$dateAndUser" 
 }
 
-#function getFailedLogins(){
-# Todo - 1
-# a) Make a little research and experimentation to complete the function
-# b) Generate failed logins and test
-#}
+function getFailedLogins(){
+	dateAndUser=$(cat "$authfile" | grep "authentication failure" | awk '{print $1,$2,$3,$15}' | awk -F'[=]' '{print $1,$2}' | awk '{print $1,$2,$3,$5}')
+	echo "$dateAndUser"
+}
 
 # Sending logins as email - Do not forget to change email address
 # to your own email address
-echo "To: fpaligu@champlain.edu" > emailform.txt
+echo "To: champben3@gmail.com" > emailform.txt
 echo "Subject: Logins" >> emailform.txt
 getLogins >> emailform.txt
-cat emailform.txt | ssmtp fpaligu@champlain.edu
+cat emailform.txt | ssmtp champben3@gmail.com 
 
-# Todo - 2
 # Send failed logins as email to yourself.
 # Similar to sending logins as email 
+
+echo "To: champben3@gmail.com" > emailform2.txt
+echo "Subject: Failed Logins" >> emailform2.txt
+echo -e "\n\n" >> emailform2.txt
+getFailedLogins >> emailform2.txt
+cat emailform2.txt | ssmtp champben3@gmail.com 
 
