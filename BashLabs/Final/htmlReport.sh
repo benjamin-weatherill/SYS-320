@@ -9,7 +9,7 @@ fi
 report_file="$1"
 
 # Begin HTML file
-cat <<EOF
+cat <<EOF > report.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -47,15 +47,15 @@ while IFS= read -r line; do
     accessed_file=$(echo "$line" | awk '{print $3}')
     
     # Output as HTML table row
-    echo "        <tr>"
-    echo "            <td>$ip_address</td>"
-    echo "            <td>$date_time</td>"
-    echo "            <td>$accessed_file</td>"
-    echo "        </tr>"
+    echo "        <tr>" >> report.html
+    echo "            <td>$ip_address</td>" >> report.html
+    echo "            <td>$date_time</td>" >> report.html
+    echo "            <td>$accessed_file</td>" >> report.html
+    echo "        </tr>" >> report.html
 done < "$report_file"
 
 # End HTML file
-cat <<EOF
+cat <<EOF >> report.html
     </table>
 </body>
 </html>
