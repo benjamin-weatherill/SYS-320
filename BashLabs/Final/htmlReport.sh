@@ -60,3 +60,5 @@ cat <<EOF >> report.html
 </body>
 </html>
 EOF
+
+mv report.html /var/www/html
